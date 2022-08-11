@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/resources": {
+      "name": "/resources",
+      "lambdaFunction": "CloudCraftCRUD",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

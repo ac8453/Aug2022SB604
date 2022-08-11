@@ -1,0 +1,18 @@
+body {
+  background-color: #f5f5f5;
+}
+
+.canvas {
+  border: 1px;
+  border-bottom: solid black;
+  border-top: solid black;
+  border-left: solid black;
+  border-right: solid black;
+  padding: 0;
+  margin: auto;
+  display: block;
+  width: 800px;
+  height: 600px;
+  position: relative;
+  top: 50%;
+}

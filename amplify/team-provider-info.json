@@ -1,0 +1,27 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-603app-dev-144749-authRole",
+      "UnauthRoleArn": "arn:aws:iam::521528577390:role/amplify-603app-dev-144749-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::521528577390:role/amplify-603app-dev-144749-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-603app-dev-144749-deployment",
+      "UnauthRoleName": "amplify-603app-dev-144749-unauthRole",
+      "StackName": "amplify-603app-dev-144749",
+      "StackId": "arn:aws:cloudformation:us-east-1:521528577390:stack/amplify-603app-dev-144749/f667d100-ebf0-11ec-b370-0e1866f36c8b",
+      "AmplifyAppId": "d3sxd3vik9s35q",
+      "APIGatewayAuthURL": "https://s3.amazonaws.com/amplify-603app-dev-144749-deployment/amplify-cfn-templates/api/APIGatewayAuthStack.json"
+    },
+    "categories": {
+      "auth": {
+        "undefined": {}
+      },
+      "function": {
+        "CloudCraftCRUD": {
+          "deploymentBucketName": "amplify-603app-dev-144749-deployment",
+          "s3Key": "amplify-builds/CloudCraftCRUD-5a6836752b4856714145-build.zip"
+        }
+      }
+    }
+  }
+}
